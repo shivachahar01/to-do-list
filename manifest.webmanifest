@@ -1,0 +1,20 @@
+{
+  "name": "NexusDay Premium Task Manager",
+  "short_name": "NexusDay",
+  "description": "A premium futuristic daily task management app with persistent tasks, focus timer, calendar, analytics, and keyboard shortcuts.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0A0F1F",
+  "theme_color": "#0A0F1F",
+  "orientation": "any",
+  "categories": ["productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/nexusday-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
